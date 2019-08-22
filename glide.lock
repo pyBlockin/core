@@ -1,0 +1,12 @@
+hash: 6b2034f708e852b9e0f00b45653665ffa98fd997a04438fa98ac72796ba2c8dc
+updated: 2019-08-22T14:57:41.320847+08:00
+imports: []
+testImports:
+- name: github.com/go-sql-driver/mysql
+  version: 72cd26f257d44c1114970e19afddcd812016007e
+- name: github.com/mattn/go-sqlite3
+  version: b612a2feea6aa87c6d052d9086572551df06497e
+- name: google.golang.org/appengine
+  version: fb139bde60fa77cede04f226b4d5a3cf68dcce27
+  subpackages:
+  - cloudsql
